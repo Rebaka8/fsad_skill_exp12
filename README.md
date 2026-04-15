@@ -98,7 +98,7 @@ http://localhost:3000
 
 ### 🔹 React Running
 
-![React](screenshots/react-running.png)
+![React](screenshots/react_running.png)
 
 ---
 
